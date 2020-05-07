@@ -1,5 +1,4 @@
 library(tidyverse)
-library(dplyr)
 load("rda/murders.rda")
 
 murders %>%
