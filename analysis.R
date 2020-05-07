@@ -1,4 +1,6 @@
 library(tidyverse)
+library(dslabs)
+
 load("rda/murders.rda")
 
 murders %>%
